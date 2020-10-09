@@ -1,0 +1,17 @@
+ ---
+name: 🦘 There is a Caption issue
+about: This template should be used when a caption is missing, or a caption is incorrect. 
+title: "[there is a code jump] "
+labels: captions needed, captions
+assignees: ''
+
+---
+
+**There is a caption missing or needed**
+<br> <em>Describe the caption issue </em> </br>
+
+---
+**Link to the segment that has the caption issue**
+
+---
+**Link to the intercom conversation, if any**
