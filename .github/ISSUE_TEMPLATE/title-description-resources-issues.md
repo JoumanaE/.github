@@ -1,7 +1,7 @@
 ---
 name: 🐛 Content Issue Template
-about: 
-title: "[] "
+about: This template is to report issues related to a specific lesson segment. The issue should be related to a lesson title, description or resource. 
+title: "[Content issue template for lesson title, description & resources] "
 labels: lesson-title-change, description-change, resources. 
 assignees: ''
 
