@@ -1,5 +1,5 @@
 ---
-name: ! The Content is Obsolete
+name: ❗ The Content is Obsolete
 about: The content in this course this does not reflect our current course standards.
 title: "[content is obsolete] "
 labels: content outdated. 
