@@ -13,4 +13,4 @@ assignees: ''
 
 **Link to the course segment:**
 
-**Time in the segment the issue appears:** 
+
