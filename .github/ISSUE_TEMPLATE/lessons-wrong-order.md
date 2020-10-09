@@ -1,5 +1,5 @@
 ---
-name: 💡 The lessons Are in the Wrong Order
+name: ❌ The lessons Are in the Wrong Order
 about: If a course has lessons that are in the wrong order, this is the template that should be used. 
 title: "[lessons in the wrong order]"
 labels: content review needed 
